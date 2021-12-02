@@ -17,17 +17,7 @@ The application is supported by a single header file that contains variable delc
 
 
 ## INSTALLATION
-To successfully run the program, the user must have access to Linux OS and Fedora 30 Workstation.
-
-For Carleton University Staff Members & Students, please access the program through SYSC Lab Machines through Remote Access:
-1. Connect to Carleton University VPN using Cisco AnyConnect Secure Mobility Client.
-2. Log in to your MC1 Carleton University account for remote access.
-3. Launch the MacOS or Windows Terminal/Command Line.
-4. Type 'ssh -p 30003 carleton_username@me3475-##.labs.sce.carleton.ca' onto the command line, where '##' is the computer number.
-5. Provide your Carleton University password.
-6. Open the TAR file using FileZilla to run the program on the terminal.
-
-
+To successfully run the program, the user must have access to Linux Operating System and Fedora 30 Workstation.
 
 ## USAGE
 
