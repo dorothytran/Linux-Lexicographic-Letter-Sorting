@@ -126,12 +126,12 @@ This algorithm works because it cycles through the array until each swap is done
 while(sorting of array indexes is not finished) {
     // 3 separate iterations for each process
     if(child process 1 or 2 or 3 is running) {
-        if(handling first index and second index of the input array in shared memroy) 
+        if(handling first index and second index of the input array in shared memory) 
         {
             swap the first index and second index based on lexicographic order
         }
         get the semaphore
-        if(handling second index and third index of the input array in shared memroy) 
+        if(handling second index and third index of the input array in shared memory) 
         {
             swap the second index and third index if it is not in lexicographic order
         }
